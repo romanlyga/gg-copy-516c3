@@ -26,9 +26,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Nam pulvinar ante eu ultricies volutpat. Aenean , eros sed aliquet
-          luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat
-          ex.
+          ![](/\_static/app-assets/2021-01-05%2012.09.04.jpg)Nam pulvinar ante
+          eu ultricies volutpat. Aenean , eros sed aliquet luctus, lorem risus
+          volutpat dolor, nec dignissim diam neque consequat ex.
         actions:
           - label: Learn More
             url: /features
